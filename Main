@@ -1,0 +1,90 @@
+# Chris Straschewski
+# CMS180014
+# CS 4395.001
+
+# The user needs to specify the relative path ‘data/data.csv’ in a sysarg. If the user does notspecify a sysarg, print an error message and end the program.
+
+import sys  # To get the system parameter
+import os   # Used by method 1
+import re
+import pickle
+
+# Define a Person class with fields: last, first, mi, id, and phone. In addition to the init method,
+# create a display() method to output fields as shown in the sample run below.
+
+class Person:
+  def __init__(self, last, first, mi, id, phone):
+    self.last = last
+    self.first = first
+    self.mi = mi
+    self.id = id
+    self.phone = phone
+
+# In addition to the init method,
+# create a display() method to output fields as shown in the sample run below.
+
+  def display(self):
+    print('Employee id:', self.id)
+    print('\t', self.first, self.mi, self.last)
+    print('\t', self.phone, '\n')
+
+# Create a function to process the input file.
+# Get rid of the first line which is just the heading line.
+def process_text(persons):
+
+  if len(sys.argv) < 2:
+    print('Please enter a filename as a system arg')
+  else:
+    fp = sys.argv[1]
+    with open(os.path.join(os.getcwd(), fp), 'r') as f:
+        line = f.readline()     # Get rid of title line
+        while True:  # Iterate through the rest of the lines
+            lines = f.readline().strip() # Strip lines and read through them
+
+            if not lines: # End of content check, loop stops
+                break
+
+            # Split on comma to get the fields as text variables
+            list = lines.split(',')
+
+            # Modify last name and first name to be in Capital Case, if necessary
+            list[0] = list[0].capitalize()
+            list[1] = list[1].capitalize()
+
+            # Modify middle initial to be a single upper case letter, if necessary.
+            # Use ‘X’ as a middle initial if one is missing.
+            if list[2]:
+                list[2] = list[2].capitalize()
+            else:
+                list[2] = 'X'
+
+            # Modify id if necessary, using regex. The id should be 2 letters followed
+            # by 4 digits. If an id is not in the correct format, output an error message,
+            # and allow the user to re-enter a valid ID.
+            while(re.match('[A-Za-z][A-Za-z]\d{4}', list[3]) == None):  # Print error message if ID is not 4 letters and 2 digits
+                print('ID invalid: ', list[3], '\nID is two letters followed by 4 digits')
+                list[3] = input('Please enter a valid id: ')    # new ID will be input by user
+
+            # Modify phone number, if necessary, to be in form 999-999-9999. Use regex.
+            while(re.match('\d{3}-\d{3}-\d{4}', list[4]) == None): # Print error message if phone number is not in correct format
+                print('Phone', list[4], 'is invalid')
+                print('Enter phone number in form 123-456-7890')
+                list[4] = input('Enter phone number: ')     # User will enter new phone number
+
+            # Add all the data into a dictionary
+            person = Person(list[0], list[1], list[2], list[3], list[4])
+            persons[list[3]] = person
+
+def main():
+    persons = {}
+
+    process_text(persons)
+
+    print('\nEmployee list:\n')
+    for person in persons:
+        persons[person].display()
+
+main()
+
+
+  
