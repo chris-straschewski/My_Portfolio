@@ -6,7 +6,7 @@ Portfolio for Python coding work
 An Overiew of my personal understanding of NLP
 (https://github.com/chrisbcream55/My_Portfolio/blob/main/Overview_of_NLP.pdf)
 
-## Homework1
+## Text Processing
 
 This program takes in the excel document as input, does error checking to make sure everything is correct, then outputs the data from the document in a particular fashion.
 
