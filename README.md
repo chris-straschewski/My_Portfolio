@@ -27,3 +27,11 @@ My experience in writing this program will be very helpful whenever I need to to
 
 (https://github.com/chrisbcream55/My_Portfolio/blob/afa293aec16705b6264047f897bf96723dde1672/WGG.py)
 
+## WordNet
+
+This program dives into some of the features of WordNet and SentiWordNet, such as exploring the relations of words and their probabilities of appearing together within a text.
+
+Wordnet is clearly significant to real world NLP applications and the calculations that need to be done for them.
+
+(https://github.com/chrisbcream55/My_Portfolio/blob/49505f596b53ea776d3dda9f79f79622947c3184/WordNet.ipynb%20-%20Colaboratory.pdf)
+
