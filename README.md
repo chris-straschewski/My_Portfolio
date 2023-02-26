@@ -42,6 +42,8 @@ This program explores some of the capacilities of Ngrams and their ability to ca
 Also included is a word doc containing more information about Ngrams.
 
 Ngrams Part 1:(https://github.com/chrisbcream55/My_Portfolio/blob/3c4813da932cec6a495e3e4cea74705bada81709/Ngrams.py)
+
 Ngrams Part 2:(https://github.com/chrisbcream55/My_Portfolio/blob/4500e0b612d583a99790c953323ac6776889be3f/Ngrams2.py)
+
 Ngrams Narrative:(https://github.com/chrisbcream55/My_Portfolio/blob/4500e0b612d583a99790c953323ac6776889be3f/Narrative_Ngrams.docx)
 
