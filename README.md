@@ -35,3 +35,13 @@ Wordnet is clearly significant to real world NLP applications and the calculatio
 
 (https://github.com/chrisbcream55/My_Portfolio/blob/49505f596b53ea776d3dda9f79f79622947c3184/WordNet.ipynb%20-%20Colaboratory.pdf)
 
+## Ngrams
+
+This program explores some of the capacilities of Ngrams and their ability to calculate probabilities of words and phrases appearing in a text- something that is quite useful in applications that involve text predicting, correction, etc. 
+
+Also included is a word doc containing more information about Ngrams.
+
+Ngrams Part 1:
+Ngrams Part 2:
+Ngrams Narrative: 
+
