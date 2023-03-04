@@ -47,3 +47,15 @@ Ngrams Part 2:(https://github.com/chrisbcream55/My_Portfolio/blob/4500e0b612d583
 
 Ngrams Narrative:(https://github.com/chrisbcream55/My_Portfolio/blob/4500e0b612d583a99790c953323ac6776889be3f/Narrative_Ngrams.docx)
 
+## Sentence Parsing
+
+A brief assignment where I was to come up with a complex sentence, then do a few things with it:
+
+Create a PSG tree
+
+Perform a Dependency parse
+
+Perform an SRL parse
+
+All three of these analyzed the sentence in different ways and are all useful in their own ways
+(https://github.com/chrisbcream55/My_Portfolio/blob/d48a8ef69411e9fd0b3e9cae5dad7c91186fb106/Sentence%20Parsing.pdf)
