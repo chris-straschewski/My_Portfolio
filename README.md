@@ -65,6 +65,6 @@ All three of these analyzed the sentence in different ways and are all useful in
 Program that starts with a specific URL, extracts other URLs from that starting point, extracts text from those URLs, and extracts information with the goal of eventually creating a knowledge bot for a chatbot to use.
 
 Code: (https://github.com/chrisbcream55/My_Portfolio/blob/f86b974486c2268fe90b194add0a347b139dd12c/WC.py)
-Report: (
+Report: (https://github.com/chrisbcream55/My_Portfolio/blob/38826439e5b4def8f2e32097d71f2dc4d26c8de3/WebCrawler.docx)
 
 
