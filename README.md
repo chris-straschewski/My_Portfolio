@@ -73,6 +73,6 @@ A program that takes a database from kaggle containing movie reviews from IMDB, 
 
 In the program we have performed text to data transformation using vectorizers, split the data into a training set and test set, and made predictions using Naive Bayes, Logistic Regression, and a Neural Network.
 
-Code: 
+Code: (https://github.com/chrisbcream55/My_Portfolio/blob/25dacecf8b20263e86b75c82c1d2aad1f33d9e0c/ML%20Text%20Classification.pdf)
 
 
