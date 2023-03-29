@@ -67,4 +67,12 @@ Program that starts with a specific URL, extracts other URLs from that starting 
 Code: (https://github.com/chrisbcream55/My_Portfolio/blob/f86b974486c2268fe90b194add0a347b139dd12c/WC.py)
 Report: (https://github.com/chrisbcream55/My_Portfolio/blob/38826439e5b4def8f2e32097d71f2dc4d26c8de3/WebCrawler.docx)
 
+## ML Text Classification
+
+A program that takes a database from kaggle containing movie reviews from IMDB, and if they are considered to be positive or negative reviews.
+
+In the program we have performed text to data transformation using vectorizers, split the data into a training set and test set, and made predictions using Naive Bayes, Logistic Regression, and a Neural Network.
+
+Code: 
+
 
