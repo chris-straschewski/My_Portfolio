@@ -75,4 +75,10 @@ In the program we have performed text to data transformation using vectorizers, 
 
 Code: (https://github.com/chrisbcream55/My_Portfolio/blob/25dacecf8b20263e86b75c82c1d2aad1f33d9e0c/ML%20Text%20Classification.pdf)
 
+## ACL Paper Summary
+
+A summary about a paper creating a new model for measuring the cultural representativeness of NLP datasets based on geographic location.
+
+Paper: (https://github.com/chrisbcream55/My_Portfolio/blob/d7c481689372ac1fd5fc7152bc5da97b6aa39a86/ACL%20Paper%20Summary.docx)
+
 
