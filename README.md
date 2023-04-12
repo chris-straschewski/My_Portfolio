@@ -33,7 +33,7 @@ This program dives into some of the features of WordNet and SentiWordNet, such a
 
 Wordnet is clearly significant to real world NLP applications and the calculations that need to be done for them.
 
-(https://github.com/chrisbcream55/My_Portfolio/blob/49505f596b53ea776d3dda9f79f79622947c3184/WordNet.ipynb%20-%20Colaboratory.pdf)
+(https://github.com/chris-straschewski/My_Portfolio/blob/a05fb8c10436f98de757ede19286c8ad2f2b8711/WordNet.ipynb%20-%20Colaboratory.pdf)
 
 ## Ngrams
 
@@ -41,11 +41,11 @@ This program explores some of the capacilities of Ngrams and their ability to ca
 
 Also included is a word doc containing more information about Ngrams.
 
-Ngrams Part 1:(https://github.com/chrisbcream55/My_Portfolio/blob/3c4813da932cec6a495e3e4cea74705bada81709/Ngrams.py)
+Ngrams Part 1:(https://github.com/chris-straschewski/My_Portfolio/blob/3c4813da932cec6a495e3e4cea74705bada81709/Ngrams.py)
 
-Ngrams Part 2:(https://github.com/chrisbcream55/My_Portfolio/blob/4500e0b612d583a99790c953323ac6776889be3f/Ngrams2.py)
+Ngrams Part 2:(https://github.com/chris-straschewski/My_Portfolio/blob/4500e0b612d583a99790c953323ac6776889be3f/Ngrams2.py)
 
-Ngrams Narrative:(https://github.com/chrisbcream55/My_Portfolio/blob/4500e0b612d583a99790c953323ac6776889be3f/Narrative_Ngrams.docx)
+Ngrams Narrative:(https://github.com/chris-straschewski/My_Portfolio/blob/4500e0b612d583a99790c953323ac6776889be3f/Narrative_Ngrams.docx)
 
 ## Sentence Parsing
 
@@ -58,14 +58,14 @@ Perform a Dependency parse
 Perform an SRL parse
 
 All three of these analyzed the sentence in different ways and are all useful in their own ways
-(https://github.com/chrisbcream55/My_Portfolio/blob/d48a8ef69411e9fd0b3e9cae5dad7c91186fb106/Sentence%20Parsing.pdf)
+(https://github.com/chris-straschewski/My_Portfolio/blob/d48a8ef69411e9fd0b3e9cae5dad7c91186fb106/Sentence%20Parsing.pdf)
 
 ## WebCrawler
 
 Program that starts with a specific URL, extracts other URLs from that starting point, extracts text from those URLs, and extracts information with the goal of eventually creating a knowledge bot for a chatbot to use.
 
-Code: (https://github.com/chrisbcream55/My_Portfolio/blob/f86b974486c2268fe90b194add0a347b139dd12c/WC.py)
-Report: (https://github.com/chrisbcream55/My_Portfolio/blob/38826439e5b4def8f2e32097d71f2dc4d26c8de3/WebCrawler.docx)
+Code: (https://github.com/chris-straschewski/My_Portfolio/blob/f86b974486c2268fe90b194add0a347b139dd12c/WC.py)
+Report: (https://github.com/chris-straschewski/My_Portfolio/blob/38826439e5b4def8f2e32097d71f2dc4d26c8de3/WebCrawler.docx)
 
 ## ML Text Classification
 
@@ -73,7 +73,7 @@ A program that takes a database from kaggle containing movie reviews from IMDB, 
 
 In the program we have performed text to data transformation using vectorizers, split the data into a training set and test set, and made predictions using Naive Bayes, Logistic Regression, and a Neural Network.
 
-Code: (https://github.com/chrisbcream55/My_Portfolio/blob/25dacecf8b20263e86b75c82c1d2aad1f33d9e0c/ML%20Text%20Classification.pdf)
+Code: (https://github.com/chris-straschewski/My_Portfolio/blob/25dacecf8b20263e86b75c82c1d2aad1f33d9e0c/ML%20Text%20Classification.pdf)
 
 ## ACL Paper Summary
 
