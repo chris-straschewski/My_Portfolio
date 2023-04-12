@@ -5,7 +5,7 @@ Portfolio for Python coding work
 
 An Overiew of my personal understanding of NLP:
 
-(https://github.com/chrisbcream55/My_Portfolio/blob/main/Overview_of_NLP.pdf)
+(https://github.com/chris-straschewski/My_Portfolio/blob/276fd85136d7f9150f187e3bab150e5bf4f7b375/Overview_of_NLP.pdf)
 
 ## Text Processing
 
@@ -17,7 +17,7 @@ From my experience with this assignment, python is very good at text processing.
 
 Nearly everything in the assignment was new. I have had to do text processing in other languages, but not in python. I was pleasantly surprised by how simple it was. The only thing that was a mild review was reading from a file, as I have already had to write a python program to do that in a different class i'm taking this semester:
 
-(https://github.com/chrisbcream55/My_Portfolio/blob/1f074d4a48fa4c3b89bf75a70ede2f5d576deb94/Main)
+(https://github.com/chris-straschewski/My_Portfolio/blob/1f074d4a48fa4c3b89bf75a70ede2f5d576deb94/Main)
 
 ## Word Guessing Game
 
@@ -25,7 +25,7 @@ This program takes a large text file, tokenizes it, and processes its text in va
 
 My experience in writing this program will be very helpful whenever I need to tokenize and process text in python:
 
-(https://github.com/chrisbcream55/My_Portfolio/blob/afa293aec16705b6264047f897bf96723dde1672/WGG.py)
+(https://github.com/chris-straschewski/My_Portfolio/blob/afa293aec16705b6264047f897bf96723dde1672/WGG.py)
 
 ## WordNet
 
