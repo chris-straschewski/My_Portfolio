@@ -79,6 +79,6 @@ Code: (https://github.com/chris-straschewski/My_Portfolio/blob/25dacecf8b20263e8
 
 A summary about a paper creating a new model for measuring the cultural representativeness of NLP datasets based on geographic location.
 
-Paper: (https://github.com/chrisbcream55/My_Portfolio/blob/d7c481689372ac1fd5fc7152bc5da97b6aa39a86/ACL%20Paper%20Summary.docx)
+Paper: (https://github.com/chris-straschewski/My_Portfolio/blob/d7c481689372ac1fd5fc7152bc5da97b6aa39a86/ACL%20Paper%20Summary.docx)
 
 
