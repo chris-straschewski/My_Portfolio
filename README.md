@@ -5,7 +5,7 @@ Portfolio for Python coding work for NLP
 
 An Overiew of my personal understanding of NLP:
 
-(https://github.com/chris-straschewski/My_Portfolio/blob/276fd85136d7f9150f187e3bab150e5bf4f7b375/Overview_of_NLP.pdf)
+(https://github.com/chris-straschewski/NLP/blob/276fd85136d7f9150f187e3bab150e5bf4f7b375/Overview_of_NLP.pdf)
 
 ## Text Processing
 
