@@ -81,4 +81,10 @@ A summary about a paper creating a new model for measuring the cultural represen
 
 Paper: (https://github.com/chris-straschewski/NLP/blob/d7c481689372ac1fd5fc7152bc5da97b6aa39a86/ACL%20Paper%20Summary.docx)
 
+## Basic Chatbot 
+
+Rough attempt at a chatbot on Dialogflow. Has minimal knowledge about Shrek, including some opinions and facts about characters, the movies, and actors.
+
+
+
 
