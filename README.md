@@ -85,8 +85,15 @@ Paper: (https://github.com/chris-straschewski/NLP/blob/d7c481689372ac1fd5fc7152b
 
 Rough attempt at a chatbot on Dialogflow. Has minimal knowledge about Shrek, including some opinions and facts about characters, the movies, and actors.
 
- link: (https://bot.dialogflow.com/437bf94f-be10-4faa-aa44-61057b773a9f)
- Report: (https://github.com/chris-straschewski/NLP/blob/844169ad3f382bdbde998ec9c5082d5c5a6094c8/Chatbot%20Report.docx)
+link: (https://bot.dialogflow.com/437bf94f-be10-4faa-aa44-61057b773a9f)
+Report: (https://github.com/chris-straschewski/NLP/blob/844169ad3f382bdbde998ec9c5082d5c5a6094c8/Chatbot%20Report.docx)
+
+## Text Classification 2
+
+Continuation of ML Text Classification, this time trying out CNN and RNN.
+Code: ()
+
+
 
 
 
