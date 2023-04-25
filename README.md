@@ -93,6 +93,8 @@ Report: (https://github.com/chris-straschewski/NLP/blob/844169ad3f382bdbde998ec9
 Continuation of ML Text Classification, this time trying out CNN and RNN.
 Code: (https://github.com/chris-straschewski/NLP/blob/0143d389255304d56d03e750e7c5e247ef314131/Text%20Classification%202.pdf)
 
+## Technical Skills and Summary
+(https://github.com/chris-straschewski/NLP/blob/ea03f6928f9f518ff0f3ef338bc9dc9cd0a128f0/Technical%20Skills%20and%20Summary)
 
 
 
