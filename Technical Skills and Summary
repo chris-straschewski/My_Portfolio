@@ -1,0 +1,26 @@
+Technical skills learned from this course
+- Text processing from various input files, such as csv files
+- Using these text processing skills to take in text, clean it up and tokenize it, 
+then create programs such as a word guessing game
+- Able to use features of WordNet and SentiWordNet
+- Use Ngrams to calculate probabilities of the occurrences of words in a text
+- Sentence parsing with a complex sentence, including a PSG tree, an SRL parse, and a 
+Dependency parse
+- Creating a WebCrawler program that starts with a specific URL and extracts other URLs 
+from that starting point, extracting text from each page to be used as the knowledge base 
+for a chatbot
+- Machine Learning text classification - taking a online database, performing text to data 
+transformations using vectorizers, split data into training and testing sets, and make 
+predictions using Naive Bayes, Logisistic Regression, and a Neural Network
+- Also used Linear Regression, Convolutional Neural Networks, RNNs, etc.
+- Writing a summary for an ACL paper about an NLP subject, specifically the creation of a model
+for measuring the cultural representativeness of NLP datasets for different geographic locations
+- Ability to utilize all of the aforementioned NLP techniques to construct a rough draft of a 
+conversational chatbot
+
+Summary
+- This course was a very good inroduction to the world of NLP, and helped me learn the basics of it.
+It also was useful for helping me realize what kind of real world applications involve NLP, such
+as chatbots, text processing, and language translation, but there's much much more than that.
+
+
